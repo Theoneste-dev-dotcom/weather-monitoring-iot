@@ -1,4 +1,4 @@
-# Weather Station Dashboard
+# Weather Monitoring Dashboard
 
 A simple and modern weather station dashboard built with Express.js and vanilla JavaScript. The dashboard displays real-time weather data including temperature, humidity, and pressure readings.
 
